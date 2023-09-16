@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+wisdom: Welcome to my blog
 ---
 
